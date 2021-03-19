@@ -1,5 +1,5 @@
 # TicTacToeAIBot
-This is a Tic Tac Toe AI Discord bot that I wrote myself using the Minimax algorithm.
+This is a Tic Tac Toe AI Discord bot that I wrote using the Minimax algorithm.
 
 Youtube Video: https://youtu.be/6SUxXJV40FM
 
